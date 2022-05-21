@@ -21,6 +21,13 @@ Programming Language: R prgramming(Rmarkdown file) in RStudi0.
     - 2019_Winter_Data_Science_Intern_Challenge_DataSet.xlsx : Dataset.
     
 ## Conclusion: The Averageordervalue of sneakers is approximately $152.
+
+- Second Solution involves Querying data from https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL.
+- The below questions are answered accordingly.
+  - How many orders were shipped by Speedy Express in total?
+  - What is the last name of the employee with the most orders?
+  - What product was ordered the most by customers in Germany?
+
   
   
   
