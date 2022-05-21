@@ -1,6 +1,6 @@
 # Shopify-Technical-Challenge-Submission
 
-The challenege includes the analysis on the 100 shops selling sneakers, the taks was to calculate the AverageOrdervalue which is Wrongly predicted 
+The challenege includes the analysis on the 100 shops selling sneakers, the taks was to calculate the AverageOrdervalue which is Wrongly calculated 
 with the orginal data.
 
 ## Aim :- To find the correct AverageOrderValue of the Sneakers.
