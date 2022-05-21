@@ -11,6 +11,7 @@ Programming Language used: R prgramming in rmarkdown.
   - Step1: Exploratory Data Analyses to understand the data
   - Step2: Identify the outlier’s presence with Visualization.
   - Step3: Clean the data, Apply Data transformation and summarize. 
+  - Step4: Calculate the AverageOrderValue for Single Item.
   
   ## Important Files to View/ In Directory:
     Fall 2022 Data Science Intern Challenge.pdf :- Contains Questions and Answers of the challenege.
